@@ -1,0 +1,11 @@
+.my-slider .slick-dots{
+    display: flex;
+}
+
+.slick-dots li button {
+    display: none;
+}
+
+.hidden {
+    height: 0;
+}
